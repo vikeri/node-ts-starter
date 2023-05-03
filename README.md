@@ -7,20 +7,18 @@ Uses
 
 # Run once
 
-````
+```
 yarn start
-``` Run and watch
-````
+```
 
+# Run and watch
+
+```
 yarn watch
-
 ```
 
 # Test
-```
 
+```
 yarn test
-
-```
-
 ```
