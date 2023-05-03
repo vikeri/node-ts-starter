@@ -2,7 +2,25 @@
 
 Uses
 
-* eslint
-* jest
-* lodash
+- eslint
+- jest
 
+# Run once
+
+````
+yarn start
+``` Run and watch
+````
+
+yarn watch
+
+```
+
+# Test
+```
+
+yarn test
+
+```
+
+```
